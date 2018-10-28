@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{606232E5-3115-49E3-A92E-2E6B4AC8793C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAPI - Calendar", "GoogleAPI - Calendar\GoogleAPI - Calendar.csproj", "{5E9DC3FB-6F56-41B3-A8AA-D718DC7BF59F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{606232E5-3115-49E3-A92E-2E6B4AC8793C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{606232E5-3115-49E3-A92E-2E6B4AC8793C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{606232E5-3115-49E3-A92E-2E6B4AC8793C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{606232E5-3115-49E3-A92E-2E6B4AC8793C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9DC3FB-6F56-41B3-A8AA-D718DC7BF59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9DC3FB-6F56-41B3-A8AA-D718DC7BF59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9DC3FB-6F56-41B3-A8AA-D718DC7BF59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9DC3FB-6F56-41B3-A8AA-D718DC7BF59F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FCDA0AD7-BE1D-462A-8740-C0CCE65E40BA}
+		SolutionGuid = {EEC8E9F9-BC80-4B51-9BD6-48D159192F6F}
 	EndGlobalSection
 EndGlobal
